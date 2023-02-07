@@ -20,6 +20,7 @@ I've been learning front end for a while now, started about two or three years a
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://images.prismic.io/boringowl/2d6cd279-0e2d-40f0-8d93-d4a63fcf75c8_Tailwind_CSS_Logo.svg.png?auto=compress,format" width="36" height="36" alt="Tailwind" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/v1ba1082cb0bd9b151fb2d708d31f382e850c5d60b82de6be21570706ce15859e/firebase/images/lockup.svg" width="72" height="36" alt="Firebase" /></a>
 </p>
 
 
