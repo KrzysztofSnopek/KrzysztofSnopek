@@ -8,6 +8,8 @@ I've been learning front end for a while now, started about two or three years a
 
 * 🌍  I'm based in Gliwice, Poland
 * 🧠  I'm learning all the things needed to deploy my portfolio, currently focusing on typescript, JavaScript, CSS
+* Check out my portfolio: https://resume-73edc.web.app/
+* Currently working at a photo gallery application: https://show-your-picture.web.app/
 
 ### Skills
 
